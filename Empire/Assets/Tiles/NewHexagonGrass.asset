@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: water
+  m_Name: NewHexagonGrass
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 9150455490102831058, guid: 2deef807f4d690246b778171d69eafe9,
+  m_Sprite: {fileID: -7711078531217164233, guid: 7f441dd282dc8cb47a1f9738cb7767da,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
